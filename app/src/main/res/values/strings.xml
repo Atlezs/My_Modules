@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c346">C346</string>
+    <string name="c328">C328</string>
+    <string name="c203">C203</string>
+    <string name="c228">C228</string>
+    <string name="c331">C331</string>
+    <string name="returnBack">Return</string>
+    <string name="list_of_modules"><b><u>List of Modules</u></b></string>
+    <string name="module_details"><b><u>Module Details</u></b></string>
+</resources>

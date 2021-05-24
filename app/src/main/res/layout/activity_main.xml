@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:singleLine="false"
+        android:text="@string/list_of_modules"
+        android:textAllCaps="false"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/buttonC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c346" />
+
+    <Button
+        android:id="@+id/buttonC328"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c328" />
+
+    <Button
+        android:id="@+id/buttonC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c203" />
+
+    <Button
+        android:id="@+id/buttonC228"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c228" />
+
+    <Button
+        android:id="@+id/buttonC331"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c331" />
+</LinearLayout>
